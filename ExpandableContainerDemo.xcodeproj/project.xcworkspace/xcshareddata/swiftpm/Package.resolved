@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ExpandableContainer",
+        "repositoryURL": "https://github.com/ling-zhan/ExpandableContainer",
+        "state": {
+          "branch": "master",
+          "revision": "c901da35e25be12c6b3c30e200145af5922e5bc6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
